@@ -6,7 +6,6 @@
 <a href="https://linkedin.com/in/https://br.linkedin.com/in/gabriel-pereira-portella-6b8413238?trk=people_directory&original_referer=https%3a%2f%2fwww.google.com%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/gabriel-pereira-portella-6b8413238?trk=people_directory&original_referer=https%3a%2f%2fwww.google.com%2f" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_gportella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_gportella/" height="30" width="40" /></a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3tzgl&show_icons=true&theme=dracula)
 
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TZGL&layout=compact&langs_count=7&theme=dracula" />
 <h3 align="left">Languages and Tools:</h3>
