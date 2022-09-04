@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gabriel Pereira</h1>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbzzera7&show_icons=true&theme=dracula)
 
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBZZERA7&layout=compact&langs_count=7&theme=dracula" />
